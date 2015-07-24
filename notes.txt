@@ -1,0 +1,12 @@
+Backbone.View.extend takes mainly 3 properties  
+  El or tagName
+  initialize
+  render
+  
+Data lives in Models and can get manipulated there
+Models generally takes
+  defaults
+
+
+Collections hold the Models
+Collections need to specifiy the type of model the collection will be holding
